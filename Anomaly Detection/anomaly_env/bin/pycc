@@ -1,0 +1,3 @@
+#!/Users/savinaysingh/Documents/SavinayUTS/MachineLearning/ml_env/bin/python3
+from numba.pycc import main
+main()
